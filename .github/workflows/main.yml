@@ -7,8 +7,8 @@ on:
 env:
   GITHUB_DOCKER_REGISTRY: docker.pkg.github.com
   ORGANISATION: amadousanogo
-  PROJECT: demo-cloud
-  PACKAGE_NAME: dc-server
+  PROJECT: github-actions
+  PACKAGE_NAME: github-actions
 
 jobs:
   deploy:
